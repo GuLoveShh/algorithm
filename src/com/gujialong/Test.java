@@ -12,7 +12,8 @@ public class Test {
 //        System.out.println(ishave);
 //        System.out.println(ishave1);
 
+
         strStr str = new strStr();
-        System.out.println(str.strStr("hallo", "ll"));
+        System.out.println(str.strStr("mississippi", "issipi"));
     }
 }
