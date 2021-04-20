@@ -2,6 +2,7 @@ package com.gujialong.trie;
 
 public class Trie {
 
+    //前缀树
     class TrieNode {
         Boolean isEnd = false;
         TrieNode[] trieNodes = new TrieNode[26];
